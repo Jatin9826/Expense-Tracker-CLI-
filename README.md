@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/8b419f7c-a118-4c93-acf2-40ce948650e9)
 # 💰 Expense Tracker (Tkinter + JSON + Excel)
 
 This is a **Python desktop application** built with **Tkinter** that allows users to track daily expenses, save them in both JSON and Excel formats, and visualize monthly summaries with pie charts. It's beginner-friendly, useful, and easily extensible.
